@@ -1,0 +1,57 @@
+{
+	"name": "Waldecker color",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#29373d",
+		"editor.foreground": "#eeffff",
+		"activityBarBadge.background": "#007acc",
+		"sideBarTitle.foreground": "#bbbbbb"
+	},
+	"tokenColors": [
+		{
+			"scope": [
+				"keyword.control",
+				"variable.other"
+			],
+			"settings": {
+				"foreground": "#59ffbd",
+			}
+		},
+		{
+			"scope": [
+				"storage.modifier",
+				"entity.other.attribute-name",
+				"support.type.property-name"
+			],
+			"settings": {
+				"foreground": "#ffb577",
+			}
+		},
+		{
+			"scope": [
+				"entity.name",
+				"punctuation.definition.tag"
+			],
+			"settings": {
+				"foreground": "#6a70eb",
+			}
+		},
+		{
+			"scope": [
+				"string"
+			],
+			"settings": {
+				"foreground": "#ebea2a",
+			}
+		},
+		{
+			"scope": [
+				"storage.type.function",
+				"storage.type"
+			],
+			"settings": {
+				"foreground": "#ff6baa",
+			}
+		}
+	]
+}
