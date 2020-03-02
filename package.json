@@ -3,6 +3,7 @@
     "displayName": "waldecker-color",
     "description": "My own color scheme",
     "author": "Thomas Waldecker <thomas.waldecker@gmail.com",
+    "publisher": "Waldecker",
     "version": "0.1.0",
     "engines": {
         "vscode": "^1.42.0"
