@@ -10,47 +10,88 @@
 	"tokenColors": [
 		{
 			"scope": [
-				"keyword.control",
-				"variable.other"
+				"meta.class variable.other"
 			],
 			"settings": {
-				"foreground": "#59ffbd",
+				"foreground": "#eeffff",
+			}
+		},
+		{
+			"scope": [
+				"keyword.control",
+				"variable.other",
+				"entity.name.type.module",
+				"entity.other.inherited-class",
+				"markup.inline.raw",
+				"meta.attribute string",
+			],
+			"settings": {
+				"foreground": "#98F390",
 			}
 		},
 		{
 			"scope": [
 				"storage.modifier",
 				"entity.other.attribute-name",
-				"support.type.property-name"
+				"support.type.property-name",
+				"string.other.link",
 			],
 			"settings": {
-				"foreground": "#ffb577",
+				"foreground": "#85A4FF",
 			}
 		},
 		{
 			"scope": [
-				"entity.name",
-				"punctuation.definition.tag"
+				"keyword.control.as",
+				"keyword.control.from",
+				"entity.name.function",
+				"support.function",
+				"punctuation.definition.tag",
+				"entity.name.tag",
+				"meta.definition.property",
+				"keyword.operator.combinator",
+				"entity.name.section",
+				"punctuation.definition",
 			],
 			"settings": {
-				"foreground": "#6a70eb",
+				"foreground": "#54D1C2",
 			}
 		},
 		{
 			"scope": [
-				"string"
+				"meta.import string",
+				"meta.type.annotation support.type",
+				"meta.type.annotation entity.name.type",
+				"entity.name.type.class",
+				"entity.name.type",
+				"variable.other.object",
+				"support.class",
 			],
 			"settings": {
-				"foreground": "#ebea2a",
+				"foreground": "#FFDD5D",
+			}
+		},
+		{
+			"scope": [
+				"variable.language.this"
+			],
+			"settings": {
+				"foreground": "#FF4E9A",
+				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": [
 				"storage.type.function",
-				"storage.type"
+				"storage.type",
+				"support.type.property-name.css",
+				"markup.underline.link",
+				"keyword.operator.new",
+				"keyword.control.trycatch",
+				"keyword.operator.expression.delete",
 			],
 			"settings": {
-				"foreground": "#ff6baa",
+				"foreground": "#FF4E9A",
 			}
 		}
 	]
