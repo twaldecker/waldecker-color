@@ -1,8 +1,9 @@
 {
     "name": "waldecker-color",
     "displayName": "waldecker-color",
-    "description": "desc",
-    "version": "0.0.1",
+    "description": "My own color scheme",
+    "author": "Thomas Waldecker <thomas.waldecker@gmail.com",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.42.0"
     },
