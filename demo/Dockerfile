@@ -1,7 +1,9 @@
 FROM node:12
 
-ENV enironment
+WORKDIR /home/node
 
-#comment
+CMD yarn run install
+
+# comment
 
 RUN the_command

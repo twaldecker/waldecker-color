@@ -31,6 +31,7 @@ export class TheClass extends Foo {
      */
     public async getDataAsync () {
         let x = await this.requestData();
+        x = 1
         return await this.requestData()
     }
 
