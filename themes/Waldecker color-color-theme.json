@@ -71,6 +71,7 @@
 				"variable.other.object",
 				"variable.other.constant.object",
 				"support.class",
+				"support.variable.object",
 				"keyword.control.default",
 			],
 			"settings": {
