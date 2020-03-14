@@ -71,6 +71,7 @@
 				"variable.other.object",
 				"variable.other.constant.object",
 				"support.class",
+				"keyword.control.default",
 			],
 			"settings": {
 				"foreground": "#FFDD5D",
