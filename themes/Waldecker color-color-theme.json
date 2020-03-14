@@ -62,11 +62,14 @@
 		{
 			"scope": [
 				"meta.import string",
+				"meta.return support.type",
+				"meta.import variable.other",
 				"meta.type.annotation support.type",
 				"meta.type.annotation entity.name.type",
 				"entity.name.type.class",
 				"entity.name.type",
 				"variable.other.object",
+				"variable.other.constant.object",
 				"support.class",
 			],
 			"settings": {
