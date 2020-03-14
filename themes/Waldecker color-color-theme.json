@@ -82,6 +82,14 @@
 		},
 		{
 			"scope": [
+				"comment"
+			],
+			"settings": {
+				"foreground": "#888",
+			}
+		},
+		{
+			"scope": [
 				"storage.type.function",
 				"storage.type",
 				"support.type.property-name.css",
