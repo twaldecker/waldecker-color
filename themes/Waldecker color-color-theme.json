@@ -19,6 +19,7 @@
 		{
 			"scope": [
 				"keyword.control",
+				"keyword.other",
 				"variable.other",
 				"entity.name.type.module",
 				"entity.other.inherited-class",
