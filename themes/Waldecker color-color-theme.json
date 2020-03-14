@@ -22,6 +22,7 @@
 				"variable.other",
 				"entity.name.type.module",
 				"entity.other.inherited-class",
+				"storage.modifier.async",
 				"markup.inline.raw",
 				"meta.attribute string",
 			],
